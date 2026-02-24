@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erfan Sarlak</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Hi+I%27m+Erfan+Sarlak+%F0%9F%91%8B;Frontend+Developer+%7C+React+%2B+TypeScript;Next.js+%7C+Tailwind+%7C+Redux+Toolkit" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-0f172a?style=for-the-badge" />
 </p>
 
