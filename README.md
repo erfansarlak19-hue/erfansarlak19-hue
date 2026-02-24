@@ -35,19 +35,8 @@
 
 ---
 
-## 🚀 Featured Projects
-- **Dashboard-React** — TypeScript dashboard UI  
-- **React-Query** — Data fetching & caching practice  
-- **Landing-Page** — Responsive UI
-
----
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=erfansarlak19-hue&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
 <img src="https://streak-stats.demolab.com?user=erfansarlak19-hue&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfansarlak19-hue&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 "Clean code. Clean UI. Clean architecture."
