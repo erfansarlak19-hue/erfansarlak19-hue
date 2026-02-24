@@ -6,13 +6,6 @@
 
 ---
 
-## 👨‍💻 About Me
-- Frontend Developer focused on **clean UI**, **performance**, and **scalable architecture**
-- Building modern apps with **React / TypeScript / Next.js**
-- Interested in **state management**, **data fetching**, and **UI systems**
-
----
-
 ## 🛠 Tech Stack
 
 ### 🌐 Core
