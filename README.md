@@ -36,7 +36,10 @@
 ---
 
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=erfansarlak19-hue&show_icons=true&hide_title=true)
+![Streak](https://streak-stats.demolab.com?user=erfansarlak19-hue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfansarlak19-hue&layout=compact)
 
-<img src="https://streak-stats.demolab.com?user=erfansarlak19-hue&theme=tokyonight" />
+---
 
 "Clean code. Clean UI. Clean architecture."
