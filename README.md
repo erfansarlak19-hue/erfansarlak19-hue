@@ -44,18 +44,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfansarlak19-hue&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=erfansarlak19-hue&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=erfansarlak19-hue&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=erfansarlak19-hue&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfansarlak19-hue&layout=compact&theme=tokyonight" />
-</p>
-
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfansarlak19-hue&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 "Clean code. Clean UI. Clean architecture."
