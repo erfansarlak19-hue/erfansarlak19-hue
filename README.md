@@ -1,10 +1,25 @@
 <h1 align="center">Hi 👋, I'm Erfan Sarlak</h1>
-<h3 align="center">Frontend Developer | React • TypeScript • Next.js</h3>
+<h3 align="center">Frontend Developer From Iran</h3>
 
 ---
 
-💻 Frontend Developer focused on building clean, scalable and modern web applications.  
-🎯 I care about **UI/UX**, **performance**, and **clean architecture**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Hi+I%27m+Erfan+Sarlak+%F0%9F%91%8B;Frontend+Developer+%7C+React+%2B+TypeScript;Next.js+%7C+Tailwind+%7C+Redux+Toolkit;Clean+UI+%7C+Scalable+Frontends" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+- Frontend Developer focused on **clean UI**, **performance**, and **scalable architecture**
+- Building modern apps with **React / TypeScript / Next.js**
+- Interested in **state management**, **data fetching**, and **UI systems**
 
 ---
 
